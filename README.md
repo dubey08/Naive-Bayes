@@ -1,6 +1,4 @@
-Certainly! Here is a sample README file for a Diabetes Prediction project using Naive Bayes that you can use on GitHub:
 
----
 
 # Diabetes Prediction Using Naive Bayes
 
